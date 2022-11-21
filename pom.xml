@@ -63,7 +63,7 @@
         <dependency>
             <groupId>org.jenkins-ci.plugins</groupId>
             <artifactId>script-security</artifactId>
-            <version>1.63.1</version>
+            <version>1218.v39ca_7f7ed0a_c</version>
         </dependency>
     </dependencies>
 </project>
